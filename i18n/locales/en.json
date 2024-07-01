@@ -6,8 +6,7 @@
           "trademarkPolicy": "Trademark Policy",
           "privacyPolicy": "Privacy Policy",
           "codeOfConduct": "Code of Conduct",
-          "security": "Security Policy",
-          "openJS": "OpenJS Foundation"
+          "security": "Security Policy"
         }
       },
       "navBar": {
@@ -96,6 +95,13 @@
             "liveDebugging": "Live Debugging",
             "poorPerformance": "Poor Performance",
             "flameGraphs": "Flame Graphs"
+          }
+        },
+        "testRunner": {
+          "links": {
+            "testRunner": "Test Runner",
+            "introduction": "Discovering Node.js's test runner",
+            "usingTestRunner": "Using Node.js's test runner"
           }
         }
       },
